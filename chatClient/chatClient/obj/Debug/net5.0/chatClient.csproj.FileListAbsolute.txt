@@ -1,0 +1,16 @@
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\bin\Debug\net5.0\chatClient.exe
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\bin\Debug\net5.0\chatClient.deps.json
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\bin\Debug\net5.0\chatClient.runtimeconfig.json
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\bin\Debug\net5.0\chatClient.runtimeconfig.dev.json
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\bin\Debug\net5.0\chatClient.dll
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\bin\Debug\net5.0\ref\chatClient.dll
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\bin\Debug\net5.0\chatClient.pdb
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.csproj.AssemblyReference.cache
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.AssemblyInfoInputs.cache
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.AssemblyInfo.cs
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.csproj.CoreCompileInputs.cache
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.dll
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\ref\chatClient.dll
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.pdb
+C:\Users\zikot\Desktop\Study\systemprogramming\chatClient\chatClient\obj\Debug\net5.0\chatClient.genruntimeconfig.cache
